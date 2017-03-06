@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "herwin",
+    "password": "prasetya89",
+    "database": "database_indomaret_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "herwin",
+    "password": "prasetya89",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "herwin",
+    "password": "prasetya89",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
